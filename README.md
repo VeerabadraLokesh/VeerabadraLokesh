@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Lokesh
 
 <!--
 **VeerabadraLokesh/VeerabadraLokesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<table>
+<tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=VeerabadraLokesh&count_private=true&show_icons=true&theme=transparent&hide_rank=true&custom_title=Github%20Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeerabadraLokesh&hide=html,css,jupyter%20notebook&layout=compact&theme=transparent&langs_count=8"/>  
+</td></tr></table>
